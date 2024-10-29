@@ -1,0 +1,15 @@
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+pom.xml
+.idea/bitebuddy.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/misc.xml
+target/classes/BiteBuddy.class
+target/classes/MenuFetcher.class
+target/classes/MenuPanel.class
+target/classes/GlobalVariables.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/classes/MenuPanel$2.class
+target/classes/MenuPanel$1.class
+target/classes/DetailPanel.class
